@@ -1,0 +1,35 @@
+{
+	"BP/recipes/wool.json": {
+		"data": {}
+	},
+	"BP/recipes/string_to_wool.json": {
+		"data": {}
+	},
+	"BP/recipes/sadle.json": {
+		"data": {}
+	},
+	"BP/recipes/fence.json": {
+		"data": {}
+	},
+	"BP/recipes/chainmailhelmet.json": {
+		"data": {}
+	},
+	"BP/recipes/chainmailchestplate.json": {
+		"data": {}
+	},
+	"BP/recipes/chainmailleggings.json": {
+		"data": {}
+	},
+	"BP/recipes/chainmailboots.json": {
+		"data": {}
+	},
+	"BP/recipes/arrow.json": {
+		"data": {}
+	},
+	"BP/recipes/enchanting_table.json": {
+		"data": {}
+	},
+	"BP/entities/zombiepigman.json": {
+		"data": {}
+	}
+}

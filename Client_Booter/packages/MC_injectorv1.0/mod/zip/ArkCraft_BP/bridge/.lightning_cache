@@ -1,0 +1,67 @@
+{
+	"recipe": {
+		"BP/recipes/wool.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/string_to_wool.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/sadle.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/fence.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/chainmailhelmet.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/chainmailchestplate.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/chainmailleggings.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/chainmailboots.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/arrow.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/enchanting_table.json": {
+			"tags": [
+				"crafting_table"
+			]
+		}
+	},
+	"entity": {
+		"BP/entities/zombiepigman.json": {
+			"events": [],
+			"bridge_core_tags": [],
+			"identifiers": [
+				"bridge:zombiepigman"
+			],
+			"animation_references": [],
+			"families": [],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	}
+}

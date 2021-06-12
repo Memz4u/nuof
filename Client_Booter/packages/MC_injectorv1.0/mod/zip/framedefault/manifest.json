@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "by CLIENTBOOTERINJECTOR",
+        "name": "ClientBooter Framework V1.0",
+        "uuid": "73a0dfb3-4ecd-4468-8918-fb28d284f4a3",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 16, 200 ]
+    },
+    "modules": [
+        {
+            "description": "FRAMEWORK V1.0 CB",
+            "type": "data",
+            "uuid": "b4f8566d-d3b7-4dd3-a2dd-2753acc25e3c",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "2c3334de-df25-4983-ba70-f1cd2dd71cd9",
+            "version": [0, 0, 1]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "ArkCraft mod by xenosiege",
+        "name": "ArkCraft RP",
+        "uuid": "0004cefd-4826-4e17-85fd-836028e774f3",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "xenosiege arkcraft mod",
+            "type": "resources",
+            "uuid": "3899454e-ebd7-49a2-b5bc-933a5f6cd6a6",
+            "version": [0, 0, 1]
+        }
+    ]
+}

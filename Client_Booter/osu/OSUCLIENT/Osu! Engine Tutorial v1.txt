@@ -1,0 +1,1 @@
+You can add custom songs by replacing music files Osu!/Assets/Music they have to be in .ogg format
